@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+venv/
+.env
+.cache/
+static/temp_images/
+static/outputs/

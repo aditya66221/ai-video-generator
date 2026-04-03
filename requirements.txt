@@ -1,0 +1,8 @@
+torch
+diffusers
+transformers
+accelerate
+moviepy
+opencv-python
+flask
+Pillow
