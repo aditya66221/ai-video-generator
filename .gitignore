@@ -5,3 +5,4 @@ venv/
 .cache/
 static/temp_images/
 static/outputs/
+.DS_Store
