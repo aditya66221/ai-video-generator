@@ -14,4 +14,4 @@ def index():
     return render_template("index.html", video_path=video_path)
 
 if __name__ == "__main__":
-    app.run(debug=True, port=5001)
+    app.run(debug=True, port=5002)
